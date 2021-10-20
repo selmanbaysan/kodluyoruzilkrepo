@@ -6,12 +6,14 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Mobile Programming Eğitiminde 
 ## Installation
 
 Öncelikle projeyi clonelayın.
-'https://github.com/selmanbaysan/kodluyoruzilkrepo.git'
+'''bash
+https://github.com/selmanbaysan/kodluyoruzilkrepo.git
+'''
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-'''
+'''linux
 cd kodluyoruzilkrepo
 code .
 '''
