@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Mobile Programming Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-![github](OneDrive\MasaÜstü\kodluyoruz.png "Kodluyoruz Görsel")
+![github](figures\gtihub.png)
 ## Installation
 
 Öncelikle projeyi clonelayın.
